@@ -1,0 +1,2 @@
+https://github.com/PHPOffice                  // all office php work
+http://alanstorm.com/magento_config           // magento module creator
