@@ -1,2 +1,3 @@
 https://github.com/PHPOffice                  // all office php work
 http://alanstorm.com/magento_config           // magento module creator
+https://www.siteground.com/tutorials/magento/magento_home_design.htm           // magento link
