@@ -6,3 +6,4 @@ https://github.com/netz98/n98-magerun        // mage run cli tool for magento
 https://blog.zopim.com/2014/06/05/9-zopim-api-tricks-to-hack-live-chat/                      // zopim chat wordpress
 http://automationstore.netapp.com.hypestat.com/                                   // all site stats
 http://neverstopbuilding.com/sublime-plugins-for-php            // sublime text packages
+http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/4/section/1/video/1                     // angular js
