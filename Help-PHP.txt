@@ -10,6 +10,6 @@ http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/4/section/
 http://www.eventbrite.com/e/immigration-seminar-gurgaon-6th-june-2015-tickets-16936434331        // immigration seminar
 http://curran.github.io/screencasts/introToAngular/exampleViewer/         // angular ex
 
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.5/angular-route.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.5/angular-route.min.js"></script>   // route
 //ajax.googleapis.com/ajax/libs/angularjs/1.3.8/angular.min.js
 
