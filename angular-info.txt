@@ -4,4 +4,4 @@ https://thinkster.io/
 http://campus.codeschool.com/courses/shaping-up-with-angular-js/wrap-up-video
 www.meetup.com
 https://kapeli.com/dash
-https://www.codeschool.com/courses/staying-sharp-with-angular-js
+https://www.codeschool.com/courses/staying-sharp-with-angular-js        /examples
