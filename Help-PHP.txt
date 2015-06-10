@@ -16,3 +16,5 @@ http://curran.github.io/screencasts/introToAngular/exampleViewer/         // ang
 http://webjawns.com/2009/08/25-must-have-cheat-sheets-for-web-developers/             // for all cheat sheet for web dev
 http://htaccesscheatsheet.com/                    // htaccess all 
 
+http://www.hackingwithphp.com/                   // php hack code
+
