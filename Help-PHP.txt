@@ -18,3 +18,5 @@ http://htaccesscheatsheet.com/                    // htaccess all
 
 http://www.hackingwithphp.com/                   // php hack code
 http://akrabat.com/zend-auth-tutorial/
+
+curl -s https://getcomposer.org/installer | php              // for composer.phar     
