@@ -20,3 +20,4 @@ http://www.hackingwithphp.com/                   // php hack code
 http://akrabat.com/zend-auth-tutorial/
 
 curl -s https://getcomposer.org/installer | php              // for composer.phar     
+https://phpunit.de/manual/current/en/appendixes.configuration.html         // phpunit doc
