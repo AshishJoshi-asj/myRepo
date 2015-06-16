@@ -26,3 +26,7 @@ https://blogs.oracle.com/netbeansphp/entry/recent_improvements_in_phpunit_suppor
 https://netbeans.org/kb/docs/php/phpunit.html 
 
 https://www.youtube.com/watch?v=Crttq5WFPcM                 // good for phpunit codeclimate
+https://codeclimate.com/
+https://github.com/phpixie/debug                            // for travis.yaml
+https://travis-ci.org/profile                  
+
