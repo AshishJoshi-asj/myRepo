@@ -24,3 +24,5 @@ https://phpunit.de/manual/current/en/appendixes.configuration.html         // ph
 https://www.youtube.com/watch?v=RC92dfLZlDw                // netbean phpunit work
 https://blogs.oracle.com/netbeansphp/entry/recent_improvements_in_phpunit_support 
 https://netbeans.org/kb/docs/php/phpunit.html 
+
+https://www.youtube.com/watch?v=Crttq5WFPcM                 // good for phpunit codeclimate
