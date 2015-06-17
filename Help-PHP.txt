@@ -33,3 +33,5 @@ https://codeclimate.com/
 https://github.com/phpixie/debug                            // for travis.yaml
 https://travis-ci.org/profile                  
 
+https://www.youtube.com/watch?v=TiVIb0KRIZw          //  Jenkins, Composer, PHPUnit, BItBucket and Digital Ocean
+
