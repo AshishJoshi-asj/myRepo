@@ -12,3 +12,5 @@ ted.com                    // for technology related videos
 https://www.reddit.com/            // for blog 
 factslides.com            // for facts
 
+https://ldopensource.wordpress.com/2013/04/21/ui-interview-questiions-answers-html5-and-css3/
+
